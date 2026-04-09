@@ -1,0 +1,47 @@
+[I 2026-04-09 13:28:49.639 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-04-09 13:28:49.666 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-04-09 13:28:49.685 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-04-09 13:28:49.699 ServerApp] notebook | extension was successfully linked.
+[I 2026-04-09 13:28:51.565 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-04-09 13:28:51.741 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-04-09 13:28:51.748 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-04-09 13:28:51.753 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-04-09 13:28:51.770 LabApp] JupyterLab extension loaded from C:\Users\Coder\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2026-04-09 13:28:51.770 LabApp] JupyterLab application directory is C:\Users\Coder\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2026-04-09 13:28:51.772 LabApp] Extension Manager is 'pypi'.
+[I 2026-04-09 13:28:53.250 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-04-09 13:28:53.268 ServerApp] notebook | extension was successfully loaded.
+[I 2026-04-09 13:28:53.272 ServerApp] Serving notebooks from local directory: C:\Users\Coder\Proyectos\p8_JJ_regression
+[I 2026-04-09 13:28:53.272 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-04-09 13:28:53.272 ServerApp] http://localhost:8888/lab?token=6566f4cbc576c6dfbd592aa49de5b499889f686e6bb8357c
+[I 2026-04-09 13:28:53.272 ServerApp]     http://127.0.0.1:8888/lab?token=6566f4cbc576c6dfbd592aa49de5b499889f686e6bb8357c
+[I 2026-04-09 13:28:53.273 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-04-09 13:28:53.414 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/Coder/AppData/Roaming/jupyter/runtime/jpserver-11648-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=6566f4cbc576c6dfbd592aa49de5b499889f686e6bb8357c
+        http://127.0.0.1:8888/lab?token=6566f4cbc576c6dfbd592aa49de5b499889f686e6bb8357c
+[I 2026-04-09 13:28:59.103 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-04-09 13:29:06.328 LabApp] Build is up to date
+[I 2026-04-09 13:29:09.146 ServerApp] Kernel started: bad4ce88-6c36-4a24-89fb-f17d69561f48
+[I 2026-04-09 13:29:09.260 ServerApp] Kernel started: cc1321d0-ee53-4e09-b10b-2f0a166b04c8
+[I 2026-04-09 13:29:19.220 ServerApp] Adapting from protocol version 5.3 (kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8) to 5.4 (client).
+[I 2026-04-09 13:29:19.225 ServerApp] Connecting to kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8.
+[W 2026-04-09 13:29:19.297 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-04-09 13:29:19.321 ServerApp] Adapting from protocol version 5.3 (kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8) to 5.4 (client).
+[I 2026-04-09 13:29:19.341 ServerApp] Connecting to kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8.
+[I 2026-04-09 13:29:19.530 ServerApp] Adapting from protocol version 5.3 (kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8) to 5.4 (client).
+[I 2026-04-09 13:29:19.559 ServerApp] Connecting to kernel cc1321d0-ee53-4e09-b10b-2f0a166b04c8.
+[W 2026-04-09 13:29:19.752 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000021312BB68B0>
+[W 2026-04-09 13:29:19.819 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000021314221750>
+[I 2026-04-09 13:29:20.009 ServerApp] Adapting from protocol version 5.3 (kernel bad4ce88-6c36-4a24-89fb-f17d69561f48) to 5.4 (client).
+[I 2026-04-09 13:29:20.038 ServerApp] Connecting to kernel bad4ce88-6c36-4a24-89fb-f17d69561f48.
+[I 2026-04-09 13:29:23.453 ServerApp] Kernel restarted: bad4ce88-6c36-4a24-89fb-f17d69561f48
+[I 2026-04-09 13:29:23.463 ServerApp] Starting buffering for bad4ce88-6c36-4a24-89fb-f17d69561f48:5b33e607-435c-44f0-9e27-b2fa7c02ae6e
+[I 2026-04-09 13:29:23.474 ServerApp] Adapting from protocol version 5.3 (kernel bad4ce88-6c36-4a24-89fb-f17d69561f48) to 5.4 (client).
+[I 2026-04-09 13:29:23.476 ServerApp] Connecting to kernel bad4ce88-6c36-4a24-89fb-f17d69561f48.
+[I 2026-04-09 13:29:23.476 ServerApp] Restoring connection for bad4ce88-6c36-4a24-89fb-f17d69561f48:5b33e607-435c-44f0-9e27-b2fa7c02ae6e
+[I 2026-04-09 13:31:08.095 ServerApp] Saving file at /tmdb_regresion_soluciones.ipynb

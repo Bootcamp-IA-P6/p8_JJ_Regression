@@ -1,0 +1,45 @@
+Hola Claude desde vscode01.jj@gmail.com
+
+1>_	Si se escribe jupyter y se presiona Tab aparece:
+
+Coder@F5-LAPMAD-124 MINGW64 ~/Proyectos/p8_JJ_regression
+$ jupyter
+jupyter-console.exe       jupyter-lab.exe           jupyter-run.exe
+jupyter-dejavu.exe        jupyter-labextension.exe  jupyter-server.exe
+jupyter-events.exe        jupyter-labhub.exe        jupyter-troubleshoot.exe
+jupyter-execute.exe       jupyter-migrate.exe       jupyter-trust.exe
+jupyter-kernel.exe        jupyter-nbconvert.exe     jupyter.exe
+jupyter-kernelspec.exe    jupyter-notebook.exe
+
+2>_	Por el contrario, si se escribe jupyter y se le da a Entrar aparece:
+
+Coder@F5-LAPMAD-124 MINGW64 ~/Proyectos/p8_JJ_regression
+$ jupyter
+usage: jupyter [-h] [--version] [--config-dir] [--data-dir] [--runtime-dir] [--paths] [--json]
+               [--debug]
+               [subcommand]
+
+Jupyter: Interactive Computing
+
+positional arguments:
+  subcommand     the subcommand to launch
+
+options:
+  -h, --help     show this help message and exit
+  --version      show the versions of core jupyter packages and exit
+  --config-dir   show Jupyter config dir
+  --data-dir     show Jupyter data dir
+  --runtime-dir  show Jupyter runtime dir
+  --paths        show all Jupyter paths. Add --json for machine-readable format.
+  --json         output paths as machine-readable json
+  --debug        output debug information about paths
+
+Available subcommands: console dejavu events execute kernel kernelspec lab labextension labhub
+migrate nbconvert notebook run server troubleshoot trust
+
+Please specify a subcommand or one of the optional arguments.
+
+3>_	¿puedes detallar las diferencias?
+
+Gracias Claude desde vscode01.jj@gmail.com
+
